@@ -1,0 +1,15 @@
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\bin\Debug\net6.0\C# дз 6.exe
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\bin\Debug\net6.0\C# дз 6.deps.json
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\bin\Debug\net6.0\C# дз 6.runtimeconfig.json
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\bin\Debug\net6.0\C# дз 6.dll
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\bin\Debug\net6.0\C# дз 6.pdb
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\C# дз 6.csproj.AssemblyReference.cache
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\C# дз 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\C# дз 6.AssemblyInfoInputs.cache
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\C# дз 6.AssemblyInfo.cs
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\C# дз 6.csproj.CoreCompileInputs.cache
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\C# дз 6.dll
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\refint\C# дз 6.dll
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\C# дз 6.pdb
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\C# дз 6.genruntimeconfig.cache
+C:\Users\Zeliboba\Desktop\папка с папками git\папка с домашками\C# дз 6\obj\Debug\net6.0\ref\C# дз 6.dll

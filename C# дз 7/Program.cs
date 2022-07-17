@@ -60,7 +60,7 @@ PrintArray(array);
 
 17 -> такого числа в массиве нет*/
 
-//Zadacha50();
+Zadacha50();
  void Zadacha50()
         {
         Console.WriteLine("Введите кол-во строк");
@@ -69,11 +69,12 @@ PrintArray(array);
         int n = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Введите элемент");
         int element = Convert.ToInt32(Console.ReadLine());
-        
+        int stolb = Convert.ToInt32(Console.ReadLine());
+
         int[,] DoubleArray = new  int[m,n];
         CreateIntArray(DoubleArray);
         PrintIntArray(DoubleArray); 
-        ElementInArray(DoubleArray, element);
+        ElementInArray(DoubleArray, element,stolb);
         
         }
 
@@ -107,7 +108,7 @@ PrintArray(array);
             return arr;
         }
 
-        void ElementInArray(int[,] arr, int elem)
+        void ElementInArray(int[,] arr, int Row, int Colns )
         {
             bool flag = false;
 
@@ -117,7 +118,7 @@ PrintArray(array);
             {
                  for (int j = 0; j <n; j++)
                 {
-                   if (arr[i,j] == elem)
+                   if (i == Row && j == Colns)
                    {
                     flag = true;
                     break;
@@ -127,7 +128,7 @@ PrintArray(array);
 
             if (flag == true)
             {
-                Console.WriteLine($"Элемент - {elem}, есть в массиве ");
+                Console.WriteLine($"Элемент - {arr[Row,Colns]}, есть в массиве ");
             }
             else {Console.WriteLine("Такого элемента нет в массиве");}  
         }
@@ -139,7 +140,7 @@ PrintArray(array);
 5 9 2 3
 8 4 2 4
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.*/
- Zadacha52();
+ //Zadacha52();
         void Zadacha52()
             {
             Console.WriteLine("Введите количество строк");

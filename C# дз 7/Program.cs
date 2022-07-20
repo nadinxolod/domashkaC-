@@ -31,6 +31,8 @@ for (int i = 0; i < arr.GetLength(0); i++)                          //Созда
 }
 return arr;
 }
+
+
 double [,] PrintArray ( double [,]arr)
 {
 for (int i = 0; i < arr.GetLength(0); i++)                          //Создание массива
